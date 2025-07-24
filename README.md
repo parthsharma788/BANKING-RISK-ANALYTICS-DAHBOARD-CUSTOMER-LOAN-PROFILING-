@@ -11,7 +11,9 @@ Delivered automated reporting and interactive dashboards that identified high-ri
 
 
 👨‍💻 Author - Parth Sharma
+
 📧 Email: Parthsharma2300@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/parth-sharma-8288a7283
 
 ⭐ If you found this helpful, consider giving it a star!
