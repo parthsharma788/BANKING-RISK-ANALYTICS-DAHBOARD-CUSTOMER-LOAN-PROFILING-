@@ -9,7 +9,6 @@ Utilized a comprehensive banking dataset of client profiles, transaction details
 ## 🏆Results:
 Delivered automated reporting and interactive dashboards that identified high-risk customer segments, monitored total loans, deposits, and fees, and enabled business partners to drive data-backed lending and deposit strategies, supporting improved compliance and risk minimization
 
-
 👨‍💻 Author - Parth Sharma
 
 📧 Email: Parthsharma2300@gmail.com
